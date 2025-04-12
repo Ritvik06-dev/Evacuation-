@@ -21,4 +21,7 @@ A mobile app built using React Native & Expo to help users during emergency situ
 4. Scan QR using Expo Go on your phone
 
 ## 🔥 Hackathon Project
-Built for [Your Hackathon Name Here]
+Built for HACKERZ 3.0 STREET
+
+
+By- Ritvik and Nipun
